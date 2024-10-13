@@ -21,7 +21,7 @@ In this project, I explored and analyzed unemployment data. The goal was to gain
 --------
 
 ### How to Use
-1. Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+1. Clone the repository.
 2. Navigate to the project of interest.
 3. Run the Jupyter Notebooks to explore the data and results.
 ______
